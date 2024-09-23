@@ -2,7 +2,7 @@
 - 🎓 Currently studying **Statistics**
 - 🔍 Interested in **Data Science**, **Machine Learning** and **Statistical Modeling**
 - 🌱 Familiar with tools like **R** and **Python**
-- ⚙️ How to reach me cybillecharriz@gmail
+- ⚙️ How to reach me <cybillecharriz@gmail.com>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: *Cybille* is of French origin -*Sybille*, which means soothsayer.
 
