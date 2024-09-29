@@ -1,4 +1,9 @@
-# This is a sample project
+# Define the function
+add_numbers <- function(x, y) {
+ result <- x + y
+ return(result)
+}
 
-data <- 1:10
-data
+# Example of calling the function
+sum_result <- add_numbers(5, 3)
+print(sum_result)  # Output will be 8
